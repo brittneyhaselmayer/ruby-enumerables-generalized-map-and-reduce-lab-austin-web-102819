@@ -6,6 +6,6 @@ def map(array)
 while i < array.length do
   new_array.push(yield(array[i]))
   i += 1
+  return new_array
 end
-retrun new_array
 end
