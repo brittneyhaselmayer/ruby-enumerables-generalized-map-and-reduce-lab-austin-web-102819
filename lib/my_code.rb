@@ -11,6 +11,7 @@ end
 
 def reduce(array,start_value=nil)
 if start_value
+  redu = start_value
   
 end
 end
