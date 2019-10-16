@@ -19,7 +19,7 @@ else
 end
 
 while i < array.length
-redu = yield(array[])
+redu = yield(redu , array[i])
 
 end
 end
