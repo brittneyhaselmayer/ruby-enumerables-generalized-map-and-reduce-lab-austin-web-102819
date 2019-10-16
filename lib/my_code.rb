@@ -9,7 +9,7 @@ new
 end
 
 
-def reduce(array,source=0)
+def reduce(array,start_value=0)
 new=0
 counter=0
 while counter<array.length
