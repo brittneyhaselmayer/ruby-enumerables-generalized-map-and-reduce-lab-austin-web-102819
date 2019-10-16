@@ -9,3 +9,12 @@ new
 end
 
 
+def reduce(array,source=0)
+new=0
+counter=0
+while counter<array.length
+new += 
+
+counter += 1
+end
+end
