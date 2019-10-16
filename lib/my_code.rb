@@ -22,7 +22,7 @@ while i < array.length
 redu = yield(redu , array[i])
 i += 1
 end
-
+redu
 end
 
 
