@@ -16,6 +16,10 @@ if start_value
 else
   redu = array[0]
   i = 1
-  
+end
+
 end
 end
+
+
+
