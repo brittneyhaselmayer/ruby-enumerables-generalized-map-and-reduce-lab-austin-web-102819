@@ -14,6 +14,8 @@ if start_value
   redu = start_value
   i = 0
 else
-  redu = array[]
+  redu = array[0]
+  i = 1
+  
 end
 end
